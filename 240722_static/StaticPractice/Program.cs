@@ -33,10 +33,14 @@ namespace StaticPractice
 
             static double Squared(double x, double y)
             {
-                for (double i = 0; i >= 0; i++)
+                double result = 1.0;
+
+                for (int i = 0; i <= y; i++)
                 {
-                    Squared(x) = 
+                    result *= x;
                 }
+
+                return result;
             }
         }
         static void Main(string[] args)
