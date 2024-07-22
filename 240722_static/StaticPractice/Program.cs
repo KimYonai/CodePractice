@@ -2,6 +2,8 @@
 
 namespace StaticPractice
 {
+    //클래스에서 숫자 입출력 방법을 아직 제대로 숙지하지 못한 것 같습니다.
+    //숫자 입출력이 진행되지 않습니다. 이 부분에 대한 수정 방향 및 피드백 부탁드립니다.
     internal class Program
     {
         public class MyCalculator
